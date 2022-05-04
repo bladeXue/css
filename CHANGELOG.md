@@ -1,5 +1,11 @@
 # @primer/css
 
+## 20.1.0
+
+### Minor Changes
+
+- [#2072](https://github.com/primer/css/pull/2072) [`ab6f0840`](https://github.com/primer/css/commit/ab6f0840f0131b370fb8871551720afa20fb466e) Thanks [@JasonEtco](https://github.com/JasonEtco)! - Add `.text-capitalize` utility class
+
 ## 20.0.0
 
 ### Major Changes
